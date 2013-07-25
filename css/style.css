@@ -1,0 +1,129 @@
+body{padding:0;}
+.MainWrapp{
+	width:1024px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+	position:relative;
+}
+.HederWrapp{
+	background: url(../img/headerslide.png) repeat-x;
+	height: 22px;
+	padding:12px;
+}
+
+.ContentWrapp{padding:20px;}
+.MainImage{text-align:center;}
+
+.ContentWrapp{min-height: 400px;}
+.Button span{
+	font-size: 24px;
+	font-weight: bold;
+	color: gray;
+}
+.btn{
+	margin-top: -4px;
+}
+.Button{margin-top: 50px;}
+.clear{clear:both;}
+@media screen and (max-width: 1024px) {
+.MainWrapp{
+	width:1006px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}	
+
+}
+
+@media screen and (max-width: 768px) {
+.MainWrapp{
+	width:768px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}	
+
+}
+
+
+@media screen and (max-width: 685px) {
+.MainWrapp{
+	width:668px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}	
+
+}
+
+@media screen and (max-width: 650px) {
+.MainWrapp{
+	width:650px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}	
+}
+
+@media screen and (max-width: 600px) {
+.MainWrapp{
+	width:600px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}	
+
+}
+
+@media screen and (max-width: 568px) {
+.MainWrapp{
+	width:550px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}
+
+}
+
+@media screen and (max-width: 480px) {
+.MainWrapp{
+	width:462px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}
+
+
+}
+
+@media screen and (max-width: 380px) {
+.MainWrapp{
+	width:380px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}
+
+}
+@media screen and (max-width: 320px) {
+.MainWrapp{
+	width:302px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}
+
+}
+@media screen and (max-width: 240px) {
+.MainWrapp{
+	width:222px;
+	min-height:450px;
+	margin:auto;
+	background:#f6f7f2;
+}
+.btn-large {
+	padding: 8px 8px;
+	font-size: 12.5px;
+}
+}
